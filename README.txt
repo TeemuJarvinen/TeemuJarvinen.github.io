@@ -1,0 +1,1 @@
+A portfolio site that showcases projects that I've finished and what I learned from them.
